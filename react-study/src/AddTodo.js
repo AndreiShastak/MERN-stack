@@ -18,14 +18,12 @@ function useInputValue(defaultValue = '') {
 function AddTodo({ onCreate }) {
 
     const input=useInputValue("")
-	//const [value, setValue] = useState(' ');
 
 	function submitHandler(event) {
 		event.preventDefault();
 		if (input.value.trim()) {
 			onCreate(input.value);
             input.clear()
-			//setValue(' ');
 		}
 	}
 

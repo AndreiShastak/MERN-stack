@@ -1,5 +1,3 @@
-//import React from 'react'
-//import TodoList from "./Todo/TodoList"
 import TodoItem from './TodoItem';
 import PropTypes from 'prop-types';
 import React from 'react';

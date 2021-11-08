@@ -1,7 +1,6 @@
 import TodoList from './Todo/TodoList';
 import React, { useEffect } from 'react';
 import Context from './context';
-//import AddTodo from './AddTodo';
 import Loader from './Loader';
 import Modal from './Modal/Modal';
 
