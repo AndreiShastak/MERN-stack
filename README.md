@@ -1,1 +1,1 @@
-# react elements training for youtube
+# react elements training
