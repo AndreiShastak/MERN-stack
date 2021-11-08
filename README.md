@@ -1,1 +1,1 @@
-# MERN-stack
+# react-study
